@@ -1,3 +1,3 @@
-discord.py[voice]>=2.5,<3
-httpx>=0.27,<1
-python-dotenv>=1,<2
+discord.py[voice]
+httpx
+python-dotenv
