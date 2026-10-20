@@ -1,4 +1,4 @@
-# Mr.Gambler 🎲
+# Mr.Gambler 
 
 **A modular Discord bot for listening to live radio stations from around the world.**
 
@@ -8,13 +8,13 @@ Mr.Gambler lets you paste a [Radio Garden](https://radio.garden/) station or loc
 
 ## Features
 
-- 🌍 **Radio Garden links:** Play a station directly from a `/listen/` URL.
-- 📍 **Browse by location:** Paste a `/visit/` URL and choose a station from a Discord dropdown.
-- 🔎 **Station search:** Search for stations by name using Radio Browser.
-- 🔊 **Voice playback:** Stream radio directly into a Discord voice channel with FFmpeg.
-- ⚡ **Automatic stream resolution:** Try Radio Garden redirects, then browser-based resolution and other fallbacks.
-- 💾 **Stream caching:** Save successfully resolved station URLs locally for reuse.
-- 🧩 **Modular design:** Radio functionality lives in its own Discord cog, making it easier to add more features.
+-  **Radio Garden links:** Play a station directly from a `/listen/` URL.
+-  **Browse by location:** Paste a `/visit/` URL and choose a station from a Discord dropdown.
+-  **Station search:** Search for stations by name using Radio Browser.
+-  **Voice playback:** Stream radio directly into a Discord voice channel with FFmpeg.
+-  **Automatic stream resolution:** Try Radio Garden redirects, then browser-based resolution and other fallbacks.
+-  **Stream caching:** Save successfully resolved station URLs locally for reuse.
+-  **Modular design:** Radio functionality lives in its own Discord cog, making it easier to add more features.
 
 ## Commands
 
